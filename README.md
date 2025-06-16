@@ -11,13 +11,13 @@ Featured Players
 
 1. Mohamed Salah (Liverpool) – 29 goals🥇
 2. Alexander Isak (Newcastle United) – 23 goals🥈
-3.Erling Haaland (Manchester City) – 22 goals🥉
+3. Erling Haaland (Manchester City) – 22 goals🥉
 4. Bryan Mbeumo (Brentford) – 20 goals
-Chris Wood (Nottingham Forest) – 20 goals
-Yoane Wissa (Brentford) – 18 goals
-Ollie Watkins (Aston Villa) – 16 goals
-Cole Palmer (Chelsea) – 15 goals
-Matheus Cunha (Wolves) – 15 goals
-Jorgen Strand-Larsen (Wolves) – 14 goals
+5. Chris Wood (Nottingham Forest) – 20 goals
+6. Yoane Wissa (Brentford) – 18 goals
+7. Ollie Watkins (Aston Villa) – 16 goals
+8. Cole Palmer (Chelsea) – 15 goals
+9. Matheus Cunha (Wolves) – 15 goals
+10. Jorgen Strand-Larsen (Wolves) – 14 goals
 
 
