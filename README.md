@@ -9,10 +9,10 @@ This repository features a horizontal bar chart that highlights the top 10 goal 
 
 Featured Players
 
-Mohamed Salah (Liverpool) – 29 goals🥇
-Alexander Isak (Newcastle United) – 23 goals🥈
-Erling Haaland (Manchester City) – 22 goals🥉
-Bryan Mbeumo (Brentford) – 20 goals
+1. Mohamed Salah (Liverpool) – 29 goals🥇
+2. Alexander Isak (Newcastle United) – 23 goals🥈
+3.Erling Haaland (Manchester City) – 22 goals🥉
+4. Bryan Mbeumo (Brentford) – 20 goals
 Chris Wood (Nottingham Forest) – 20 goals
 Yoane Wissa (Brentford) – 18 goals
 Ollie Watkins (Aston Villa) – 16 goals
