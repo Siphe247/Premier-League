@@ -7,7 +7,8 @@ This repository features a horizontal bar chart that highlights the top 10 goal 
 📸Liverpool's Mohamed Salah with the golden boot and playmaker of the season award🏆
 -------------
 
-Featured Players
+Premier League golden boot race: 
+![image_alt](https://github.com/Siphe247/Premier-League/blob/db9eb54280dd6b8a7ea2b1c1985ccfa07aafd963/Premier%20League%202024-25%20Top%20Scorers.png)
 
 1. Mohamed Salah (Liverpool) – 29 goals🥇
 2. Alexander Isak (Newcastle United) – 23 goals🥈
